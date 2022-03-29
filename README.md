@@ -1,2 +1,5 @@
 # Node-JS-
-Atividades práticas 
+Atividades práticas desenvolvidas na trilha Discover Rocktseat 
+- NPM 
+- Timers 
+- Events
